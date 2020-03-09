@@ -1,16 +1,12 @@
 # To get start:
 
-### `cd client; npm install; npm run start`
+### `cd client npm install npm run start`
 
-### `cd server; npm install; npm run start;`
+### `cd server npm install npm run start`
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-
-# Assumptions
-
-- filters options have been given
 
 # What I used
 
@@ -24,3 +20,4 @@ Client:
 Server:
 
 - Expressjs: one of the most popular nodejs server side framework
+
