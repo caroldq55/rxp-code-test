@@ -36,7 +36,7 @@ const item = {
   productName: 'Sony Xperia XA2',
   productImage:
     'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_front_v1.png',
-  price: '19'
+  price: 19
 };
 
 const cartItems = [
@@ -45,7 +45,7 @@ const cartItems = [
     productName: 'Sony Xperia XA2',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_front_v1.png',
-    price: '19'
+    price: 19
   }
 ];
 
@@ -55,21 +55,21 @@ const publishedProducts = [
     productName: 'Apple iPhone X',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-silver-grid.png',
-    price: '299'
+    price: 299
   },
   {
     isPublished: true,
     productName: 'Apple iPhone 8',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-silver-grid.png',
-    price: '100'
+    price: 100
   },
   {
     isPublished: true,
     productName: 'Sony Xperia XA2',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/sony-xperia-xa2/sony_xperia_xa2_front_v1.png',
-    price: '19'
+    price: 19
   }
 ];
 
@@ -79,14 +79,14 @@ const availableProducts = [
     productName: 'Apple iPhone X',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-x/iphone-x-silver-grid.png',
-    price: '299'
+    price: 299
   },
   {
     isPublished: true,
     productName: 'Apple iPhone 8',
     productImage:
       'https://www.telstra.com.au/content/dam/tcom/personal/mobile-phones/product-catalogue/iphone-8/iphone-8-silver-grid.png',
-    price: '100'
+    price: 100
   }
 ];
 

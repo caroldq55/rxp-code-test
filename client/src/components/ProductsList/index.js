@@ -23,7 +23,7 @@ ProductsList.propTypes = {
     PropTypes.shape({
       productImage: PropTypes.string.isRequired,
       productName: PropTypes.string.isRequired,
-      price: PropTypes.string.isRequired,
+      price: PropTypes.number.isRequired,
       isPublished: PropTypes.bool
     })
   ).isRequired,

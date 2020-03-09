@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 const CartItemContainer = styled.div`
   margin: 5px;
@@ -13,4 +13,8 @@ const ItemName = styled.span`
   white-space: nowrap;
 `;
 
-export { CartItemContainer, ItemName };
+const Price = styled.span`
+  margin-left: 10px;
+`;
+
+export { CartItemContainer, ItemName, Price };

@@ -14,4 +14,4 @@ const selectAvailableProducts = (cartItems, products) => {
   );
 };
 
-export default selectAvailableProducts;
+export { selectAvailableProducts };

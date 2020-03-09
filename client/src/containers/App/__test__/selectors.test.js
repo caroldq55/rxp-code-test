@@ -1,4 +1,4 @@
-import selectAvailableProducts from '../selectors';
+import { selectAvailableProducts } from '../selectors';
 import {
   products,
   availableProducts,

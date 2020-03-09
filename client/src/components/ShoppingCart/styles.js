@@ -17,4 +17,9 @@ const Content = styled.div`
   padding: 10px;
 `;
 
-export { ShopingCartContainer, Heading, Content };
+const TotalPrice = styled.div`
+  font-weight: bold;
+  margin-top: 10px;
+`;
+
+export { ShopingCartContainer, Heading, Content, TotalPrice };
